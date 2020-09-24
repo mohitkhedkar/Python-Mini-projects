@@ -1,10 +1,10 @@
 # Python-Mini-projects
 Mini projects in python
 
-## Pattern printing 
+## 1. [Pattern printing](Pattern.py). 
 printing a crown shape pattern.
-<!-- <img src"Images/pattern.JPG"> -->
-![](Images/pattern.JPG)
+![Crown Pattern](Images/pattern.JPG)
 
-## Simple Calculator
+## 2. [Simple Calculator](simpleCalculator.py).
 Calculator app using the tkinter lib.
+![Calculator](Images/Calculator.JPG)
