@@ -3,3 +3,6 @@ Mini projects in python
 
 ## Pattern printing 
 printing a crown shape pattern.
+
+## Simple Calculator
+Calculator app using the tkinter lib.
