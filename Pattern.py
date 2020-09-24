@@ -24,7 +24,7 @@ def pattern(length,height) :
 
         print ()
 
-len = input("Enter the Width")
+len = input("Enter the Width: ")
 length = int(len)
 #height = input("Enter the Height")
 height = int((length-1)/2)
